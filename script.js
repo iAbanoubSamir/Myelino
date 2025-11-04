@@ -6,7 +6,7 @@ const carousels = {
   },
   team: {
     currentIndex: 0,
-    totalSlides: 7,
+    totalSlides: 8,
   },
 };
 
