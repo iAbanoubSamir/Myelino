@@ -2,7 +2,7 @@
 const carousels = {
   screenshots: {
     currentIndex: 0,
-    totalSlides: 21,
+    totalSlides: 22,
   },
   team: {
     currentIndex: 0,
